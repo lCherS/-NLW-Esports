@@ -31,10 +31,10 @@ function App() {
       });
   }, []);
   return (
-    <div className="max-w-[1344px] mx-auto flex flex-col items-center my-20">
+    <div className="max-w-[1280px] mx-auto flex flex-col items-center my-14">
       <img src={logoImg} className="max-h-40" alt="" />
 
-      <h1 className="text-6xl text-white font-black mt-20">
+      <h1 className="text-6xl text-white font-black mt-14">
         Seu
         <span className="bg-nlw-gradient bg-clip-text text-transparent">
           duo
